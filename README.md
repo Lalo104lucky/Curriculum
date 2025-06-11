@@ -8,6 +8,7 @@
 - Dulce María González Arellano
 - Diego Eduardo Jaimez Flores
 - Maximiliano Carrera Oropeza
+- Emiliano Cortez Galvez
 
 ## Descripción del sistema
 
