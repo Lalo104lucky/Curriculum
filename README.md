@@ -45,6 +45,4 @@ Curriculum/
 
 3. **Abre el archivo index.html en tu navegador favorito.**
 
-   ```sh
-   Puedes hacer doble clic en el archivo index.html o abrirlo desde tu editor de código.
-   ```
+   - Puedes hacer doble clic en el archivo index.html o abrirlo desde tu editor de código.
