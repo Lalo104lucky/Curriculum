@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil de Mats</title>
+    <style>
+        body {
+            background: linear-gradient(135deg, #1a0520 0%, #4a1b7a 100%);            
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .card {
+            width: 350px;
+            background: black;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+        }
+        
+        h1 {
+            color: #ffffff;
+            margin-bottom: 25px;
+            font-size: 28px;
+        }
+        
+        img {
+            width: 180px;
+            height: 180px;
+            object-fit: cover;
+            border-radius: 50%;
+            border: 5px solid #f1f1f1;
+            margin-bottom: 20px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        p {
+            color: #ffffff;
+            line-height: 1.6;
+            margin-bottom: 15px;
+            font-size: 16px;
+        }
+        
+        p:last-child {
+            margin-top: 25px;
+            color: ffffff;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Perfil de Mats</h1>
+        <img src="../img/mats.jpg" alt="Foto de Mats" width="200">
+        <p>Hola, soy Maximiliano Carrera Oropeza</p>
+        <p>Actualmente estoy estudiando Ingenieria en Desarrollo y Gestion de Software</p>
+        <p>En mi tiempo libre disfruto de los videojuegos y la musica.</p>
+        <p>¡Gracias por visitar mi perfil!</p>
+    </div>
+</body>
+</html>
