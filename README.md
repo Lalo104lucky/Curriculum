@@ -15,7 +15,18 @@ Este proyecto es una plataforma web sencilla que muestra los perfiles  de los in
 
 ## Estructura de carpetas
 
-Curriculum/ │ ├── index.html ├── README.md └── resources/ └── perfiles/ ├── alex.html ├── charly.html ├── Christopher.html ├── GonzalezArellanoDulceMaria.html ├── lalo.html └── mats.html
+Curriculum/ 
+│ 
+├── index.html 
+├── README.md 
+└── resources/ 
+   ├── perfiles/ 
+   ├── alex.html 
+   ├── charly.html 
+   ├── Christopher.html 
+   ├── GonzalezArellanoDulceMaria.html 
+   ├── lalo.html 
+   └── mats.html
 
 
 ## Cómo clonar y correr el proyecto
